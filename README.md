@@ -17,23 +17,23 @@ search_sougou_code.py
 项目四   爬取肯德基餐厅信息查询（Ajax请求,且为post请求）                   
 KFC_info.py                                   
                                   
-
+                                  
 项目五   爬取化妆品生产认证的产品数据（Ajax请求）                          
 makeup_info.py                                
 
-
+                                  
 项目六   爬取单张图片（图片返回值为二进制，补充为urllib请求）                                                 
 single_pictrue.py                            
-
+                                  
 
 项目七   爬取校花网照片（批量抓取静态图片）                                                                  
 compus_pic.py                              
-
-
+                                  
+                                  
 项目八   爬取小说三国演义全篇内容（静态）                                                                    
 novel.py                                  
-
-
+                                  
+                                  
 项目九   使用xpath爬取多张图片数据和名称                                                                     
 multi_pic.py                                  
 项目十   爬取空气质量历史数据查询的城市                                                                      
